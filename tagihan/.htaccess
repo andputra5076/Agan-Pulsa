@@ -1,0 +1,2 @@
+Options All -Indexes
+php_flag log_errors on

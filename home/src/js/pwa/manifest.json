@@ -1,0 +1,55 @@
+
+{
+  "name": "Smm Panel Indonesia",
+  "description": "Smm Panel Indonesia Termurah Dasn Terbaik",
+  "short_name": "Onekit",
+  "theme_color": "#5b2be0",
+  "background_color": "#ffffff",
+  "start_url": "../../../",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+  {
+   "src": "../../img-min/logo/36x36.png",
+   "sizes": "36x36",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/48x48.png",
+   "sizes": "48x48",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/72x72.png",
+   "sizes": "72x72",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/96x96.png",
+   "sizes": "96x96",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/144x144.png",
+   "sizes": "144x144",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/192x192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "../../img-min/logo/512x512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
